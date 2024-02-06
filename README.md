@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 # 💫 About Me:
-I am a third year at Indian Institute of Technology Kharagpur, passionate about exploring the realms of development, machine learning, devOps and many more
+I am a third year at Indian Institute of Technology Kharagpur, passionate about exploring the realms of development, machine learning, devOps and many more.
 
 ## 🚀 What I'm Up To
 - 🔭 Architecting robust web solutions, navigating through complex frameworks, and fine-tuning user experiences.
