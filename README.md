@@ -2,9 +2,8 @@
 
 <!--
 **Dhruv-Kapri/Dhruv-Kapri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
+
 ## 💫 About Me:
 I am a third year at Indian Institute of Technology Kharagpur, passionate about exploring the realms of development, machine learning, devOps and more.
 
