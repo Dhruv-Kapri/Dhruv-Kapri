@@ -54,5 +54,4 @@ I am a third year at Indian Institute of Technology Kharagpur, passionate about 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv-Kapri&icon=0&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
