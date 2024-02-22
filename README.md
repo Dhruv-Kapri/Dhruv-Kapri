@@ -9,7 +9,7 @@ I am a third year at Indian Institute of Technology Kharagpur, passionate about 
 
 ### 🚀 What I'm Up To
 - 🔭 Architecting robust web solutions, navigating through complex frameworks, and fine-tuning user experiences.
-- 🌱 Diving deep into the realms of machine learning and sharpening my skills in predictive analytics..
+- 🌱 Diving deep into the realms of machine learning and sharpening my skills in predictive analytics.
 - 👯 Building groundbreaking projects that blend innovation with practicality – open to exciting partnerships!
 - 🤔 Enhancing my container orchestration skills – seeking guidance from fellow DevOps enthusiasts!
 - 💬 The art of automating deployment pipelines and orchestrating magic in the world of DevOps.
