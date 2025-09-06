@@ -5,7 +5,7 @@
 -->
 
 ## 💫 About Me:
-I am a third year at Indian Institute of Technology Kharagpur, passionate about exploring the realms of development, machine learning, devOps and more.
+I am a final year at Indian Institute of Technology Kharagpur, passionate about exploring the realms of development, machine learning, blockchain, devOps and more.
 
 ### 🚀 What I'm Up To
 - 🔭 Architecting robust web solutions, navigating through complex frameworks, and fine-tuning user experiences.
