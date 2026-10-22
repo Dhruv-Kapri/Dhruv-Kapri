@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <pattern id="minor" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="rgba(233,234,235,0.045)" stroke-width="1"/></pattern>
+    <pattern id="major" width="120" height="120" patternUnits="userSpaceOnUse"><rect width="120" height="120" fill="url(#minor)"/><path d="M120 0H0V120" fill="none" stroke="rgba(233,234,235,0.08)" stroke-width="1"/></pattern>
+    <radialGradient id="fade" cx="0.92" cy="0.05" r="0.75"><stop offset="0" stop-color="#fff"/><stop offset="0.45" stop-color="#fff" stop-opacity="0.55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <mask id="m"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="#0d1117"/>
+  <g mask="url(#m)"><rect x="-400" y="-600" width="2400" height="1500" fill="url(#major)" transform="rotate(14 600 150)"/></g>
+  <text x="64" y="92" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.6" fill="#9fd3cb">APPLIED AI · GEOAI · COMPUTATIONAL DESIGN</text>
+  <text x="60" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="84" fill="#e9eaeb" letter-spacing="-1.5">Dhruv Kapri</text>
+  <text x="64" y="232" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#a3abb3">Architect turned applied-AI engineer, building software for the built environment.</text>
+</svg>
