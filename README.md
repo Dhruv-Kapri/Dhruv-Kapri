@@ -1,7 +1,7 @@
 <a href="https://dhruv-kapri.github.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Dhruv Kapri: Applied AI, GeoAI, computational design. Architect turned applied-AI engineer, building software for the built environment." src="assets/banner-light.svg" width="100%">
+    <img alt="Dhruv Kapri: Applied AI, GeoAI, computational design. Architect and applied-AI engineer, building software for the built environment." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
