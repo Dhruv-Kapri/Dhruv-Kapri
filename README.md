@@ -1,11 +1,13 @@
 # Hi 👋 I'm Dhruv Kapri 
 
+Website: [dhruv-kapri.github.io](https://dhruv-kapri.github.io/)
+
 <!--
 **Dhruv-Kapri/Dhruv-Kapri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ## 💫 About Me:
-I am a final year at Indian Institute of Technology Kharagpur, passionate about exploring the realms of development, machine learning, blockchain, devOps and more.
+I am an architect turned applied-AI engineer (B.Arch, Indian Institute of Technology Kharagpur), working on geospatial AI, machine learning and software for the built environment.
 
 ### 🚀 What I'm Up To
 - 🔭 Architecting robust web solutions, navigating through complex frameworks, and fine-tuning user experiences.
