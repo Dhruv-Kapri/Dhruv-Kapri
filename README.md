@@ -1,7 +1,7 @@
 <a href="https://dhruv-kapri.github.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Dhruv Kapri: Applied AI, GeoAI, computational design. Applied-AI engineer with a B.Arch, building software for the built environment." src="assets/banner-light.svg" width="100%">
+    <img alt="Dhruv Kapri: Applied AI, GeoAI, computational design. Architect turned applied-AI engineer, building software for the built environment." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
@@ -14,7 +14,7 @@
   <a href="mailto:dhruv27kapri@gmail.com"><img src="https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I studied architecture at **IIT Kharagpur** (B.Arch Hons.) and moved into machine learning through research at **Universiti Malaya**, **OCAD University** (Mitacs Globalink) and **NUS**. Today I build floor-plan automation and document-intelligence tools in Python at **SLnko Energy**.
+I trained as an architect at **IIT Kharagpur** (B.Arch Hons.) and moved into machine learning through research at **Universiti Malaya**, **OCAD University** (Mitacs Globalink) and **NUS**. Today I build floor-plan automation and document-intelligence tools in Python at **SLnko Energy**.
 
 The thread through my work: take a messy spatial or regulatory problem from architecture and planning, and turn it into something a program can check, score or generate.
 
