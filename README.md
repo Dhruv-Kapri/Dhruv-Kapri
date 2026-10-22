@@ -76,14 +76,14 @@ A job queue from scratch in Python: workers, retries, dead-letter queues, fault-
 
 ## Publications
 
-| | |
+| Venue | Paper |
 |:--|:--|
 | **HCII 2025** | *Integrating AI-Driven Personas and Procedural Visualization for Complete Communities Design and Urban Planning for Large-Scale Urban Development*. Springer Nature Switzerland |
 | **IJPRAI 2024** | *A New Contrastive Learning-based Vision Transformer for Sentiment Analysis using Scene Text Images*. International Journal of Pattern Recognition and Artificial Intelligence |
 
 ## Toolbox
 
-| | |
+| Area | Tools |
 |:--|:--|
 | **Geospatial** | ArcGIS Pro · GRASS GIS · PostGIS · LiDAR · GeoParquet · MapLibre |
 | **Machine learning** | PyTorch · TensorFlow · scikit-learn · Transformers · OpenCV |
