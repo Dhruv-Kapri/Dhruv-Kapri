@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://dhruv-kapri.github.io/"><img src="https://img.shields.io/badge/website-dhruv--kapri.github.io-1f6f68?style=flat-square" alt="Website"></a>
-  <a href="https://dhruv-kapri.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-1b1f24?style=flat-square" alt="CV"></a>
+  <a href="https://dhruv-kapri.github.io/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-1b1f24?style=flat-square" alt="Résumé"></a>
   <a href="https://www.linkedin.com/in/dhruv-kapri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Dhruv_Kapri"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://bsky.app/profile/dhruv-kapri.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
