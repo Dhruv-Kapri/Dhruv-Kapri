@@ -46,7 +46,7 @@ A city-scale Python pipeline that scores every rooftop in DC for solar: LiDAR su
 <table>
 <tr>
 <td width="55%" valign="top">
-<a href="https://dhruv-kapri.github.io/Catchment/"><img src="https://dhruv-kapri.github.io/assets/catchment-map.jpg" alt="Web map of Gurugram and South Delhi: service areas of existing and new dark stores over demand hexes" width="100%"></a>
+<a href="https://dhruv-kapri.github.io/Catchment/"><img src="https://dhruv-kapri.github.io/assets/catchment-map.jpg?v=2" alt="Web map of Gurugram and South Delhi: service areas of existing and new dark stores over demand hexes" width="100%"></a>
 </td>
 <td width="45%" valign="top">
 
