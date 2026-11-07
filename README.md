@@ -41,6 +41,27 @@ A city-scale Python pipeline that scores every rooftop in DC for solar: LiDAR su
 </tr>
 </table>
 
+## Featured: Catchment, dark-store network planning
+
+<table>
+<tr>
+<td width="55%" valign="top">
+<a href="https://dhruv-kapri.github.io/Catchment/"><img src="https://dhruv-kapri.github.io/assets/catchment-map.jpg" alt="Web map of Gurugram and South Delhi: service areas of existing and new dark stores over demand hexes" width="100%"></a>
+</td>
+<td width="45%" valign="top">
+
+Where should a quick-commerce operator open its next N dark stores, and what does each one win or take from the stores it already has? Open-data demand per H3 hex, OSRM two-wheeler travel times and CP-SAT (warm-started from greedy), compared scenario against scenario on linked maps.
+
+**≤ 10 s** per plan, any scenario in the lever ranges<br>
+**1,458** candidate sites over 528 km²<br>
+**Gap** to the bound and gain over greedy, stated per plan
+
+[Open the map](https://dhruv-kapri.github.io/Catchment/) · [Source](https://github.com/Dhruv-Kapri/Catchment)
+
+</td>
+</tr>
+</table>
+
 ## Other work
 
 <table>
